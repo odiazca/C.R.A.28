@@ -1,0 +1,8 @@
+url:
+https://inventario_ti.test/login.php
+
+usuario:
+admin@correo.com
+
+contraseña:
+Xvito2013$
